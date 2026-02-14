@@ -1,2 +1,5 @@
 # pricing-calculator
-A simple online calculator to help small businesses set the right price and avoid selling at a loss.
+This project is a simple pricing calculator for small businesses.
+It helps sellers understand costs, margins, and break-even points.
+
+Website:https://calculadoradeprecios.liveblog365.com/
